@@ -1,0 +1,2 @@
+Os exercícios estão separados por arquivos e devem ser executados no console do navegador, exceto o E.6 que executa um alert.
+O desafio front end foi parcialmente concluido devido a dificuldade em mostrar apenas uma vez cada postagem com todos os comentários referentes, não repetindo a postagem.
